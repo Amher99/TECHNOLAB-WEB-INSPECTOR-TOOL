@@ -6,6 +6,7 @@
 #
 #
 # Requirements
+# module-pyttsx3
 #  python3
 #
 #
