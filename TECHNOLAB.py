@@ -1,11 +1,11 @@
-l = "technolab website -"
+l = "personal website -"
 print("WEB INSPECTOR")
 print("POWERED BY-TECHNOLAB")
-print(l,"http://technolab.cf/")
+print(l,"http://amher99.rf.gd/")
 print("DEVELOPED BY - R.K MUHAMMAD AMHER")
 
 
-print("ALL RIGHT RESERVED")
+print("Artificial intelligence tool")
 
 print("-----------------------                    ")
 print("           |                     |          ")
